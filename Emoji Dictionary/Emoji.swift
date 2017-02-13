@@ -6,12 +6,9 @@
 //  Copyright © 2017 nikkof29. All rights reserved.
 //
 
-class Emoji:  {
-    var stringEmoji = ""
+class Emoji {
+    var stringemoji = ""
     var definition = ""
     var category = ""
     var birthYear = 0
-    
 }
-
-
